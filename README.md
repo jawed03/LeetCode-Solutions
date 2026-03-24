@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/jawed03/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/jawed03/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jawed03/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [1796-second-largest-digit-in-a-string](https://github.com/jawed03/LeetCode-Solutions/tree/master/1796-second-largest-digit-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jawed03/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/jawed03/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [1796-second-largest-digit-in-a-string](https://github.com/jawed03/LeetCode-Solutions/tree/master/1796-second-largest-digit-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
