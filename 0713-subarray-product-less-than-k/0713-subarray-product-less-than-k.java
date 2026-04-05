@@ -1,27 +1,23 @@
 class Solution {
     public int numSubarrayProductLessThanK(int[] nums, int k) {
 
-        int count = 0;
-        int product = 1;
+                 // Optimal (Sliding Window) [TC -> O(n) && SC -> O(1)]
         int left = 0;
-        int right = 0;
-
-        if(k  <= 1)
-        return 0;
-
-        while(right < nums.length) {
+        int product = 1;
+        int count = 0;
+        for(int right=0; right < nums.length; right++){
             product *= nums[right];
-            while(product >= k){
+            
+            while(product >= k && left <= right){
                 product /= nums[left];
                 left++;
             }
-             
             count += (right - left + 1);
-            right++;
         }
         return count;
 
 
+                 // // Brute Force [TC -> O(n*n) && SC -> O(1)]
         // int count = 0;
         // for(int i=0; i<nums.length; i++){
         //     int product = 1;
