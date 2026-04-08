@@ -1,6 +1,7 @@
 class Solution {
     public int[] productExceptSelf(int[] nums) {
 
+            // Optimal Solution [TC -> O(n+n)=O(n) && SC -> O(n)]
         int n = nums.length;
         int prefix = 1;
         int[] ans = new int[n];
