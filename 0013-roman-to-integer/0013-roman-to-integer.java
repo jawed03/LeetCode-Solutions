@@ -13,8 +13,9 @@ class Solution {
         map.put('M', 1000);
 
         for(int i=0; i<n; i++){
-            // Subtract if previous value is smaller.
-            if(i+1 < n && map.get(s.charAt(i)) < map.get(s.charAt(i+1))){
+            // Subtract if current value is smaller than next.
+            int currentVal = map.get(s.charAt(i));
+            if(i+1 < n && currentVal < map.get(s.charAt(i+1))){
                 res -= map.get(s.charAt(i));
             }
             else{
