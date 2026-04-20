@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/jawed03/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/jawed03/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/jawed03/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/jawed03/LeetCode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jawed03/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/jawed03/LeetCode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Prefix Sum
 |  |
 | ------- |
