@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/jawed03/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/jawed03/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/jawed03/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1189-maximum-number-of-balloons](https://github.com/jawed03/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1796-second-largest-digit-in-a-string](https://github.com/jawed03/LeetCode-Solutions/tree/master/1796-second-largest-digit-in-a-string) |
 ## Two Pointers
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/jawed03/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/jawed03/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/jawed03/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [1189-maximum-number-of-balloons](https://github.com/jawed03/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1796-second-largest-digit-in-a-string](https://github.com/jawed03/LeetCode-Solutions/tree/master/1796-second-largest-digit-in-a-string) |
 ## Sliding Window
 |  |
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/jawed03/LeetCode-Solutions/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/jawed03/LeetCode-Solutions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/jawed03/LeetCode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
+## Counting
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/jawed03/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
