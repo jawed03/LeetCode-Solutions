@@ -8,18 +8,18 @@ class Solution {
         HashMap<Character, Character> map = new HashMap<>();
 
         while(i < s.length()){
-            char firstChar = s.charAt(i);
-            char secondChar = t.charAt(j);
+            char sChar = s.charAt(i);
+            char tChar = t.charAt(j);
 
-            if(map.containsKey(firstChar)){
-                if(map.get(firstChar) != secondChar)
+            if(map.containsKey(sChar)){
+                if(map.get(sChar) != tChar)
                     return false;
             }
             else{
-                if(map.containsValue(secondChar))
+                if(map.containsValue(tChar))
                     return false;
-                    
-                map.put(firstChar, secondChar);
+
+                map.put(sChar, tChar);
             }
             i++;
             j++;
