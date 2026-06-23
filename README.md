@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/jawed03/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/jawed03/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/jawed03/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0205-isomorphic-strings](https://github.com/jawed03/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/jawed03/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/jawed03/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/jawed03/LeetCode-Solutions/tree/master/0242-valid-anagram) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/jawed03/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/jawed03/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/jawed03/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0205-isomorphic-strings](https://github.com/jawed03/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/jawed03/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/jawed03/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1189-maximum-number-of-balloons](https://github.com/jawed03/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
