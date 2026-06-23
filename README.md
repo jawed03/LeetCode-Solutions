@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/jawed03/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/jawed03/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0263-ugly-number](https://github.com/jawed03/LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [1137-n-th-tribonacci-number](https://github.com/jawed03/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jawed03/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Dynamic Programming
